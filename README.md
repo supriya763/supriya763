@@ -1,8 +1,5 @@
 ## Hi there 👋
 Supriya Chapagain
-supriyachapagain123@gmail.com
-9810375551
-19
 
 <!--
 **supriya763/supriya763** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
